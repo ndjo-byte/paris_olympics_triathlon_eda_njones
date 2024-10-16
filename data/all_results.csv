@@ -1,0 +1,346 @@
+program_id,athlete_id,athlete_first_name,athlete_last_name,country,start_number,swim,t1,bike,t2,run,position,total_time,event,host_country
+2301,5302,Simon,Whitfield,CAN,18,0 days 00:17:56,0 days 00:00:21,0 days 00:58:54,0 days 00:00:17,0 days 00:30:52,1.0,0 days 01:48:24,sydney_2000,AUS
+2301,5640,Stefan,Vuckovic,GER,50,0 days 00:18:13,0 days 00:00:21,0 days 00:58:32,0 days 00:00:17,0 days 00:31:08,2.0,0 days 01:48:37,sydney_2000,AUS
+2301,93474,Jan,Rehula,CZE,32,0 days 00:17:45,0 days 00:00:26,0 days 00:58:54,0 days 00:00:19,0 days 00:31:20,3.0,0 days 01:48:45,sydney_2000,AUS
+2301,5336,Dmitriy,Gaag,KAZ,36,0 days 00:17:48,0 days 00:00:22,0 days 00:58:48,0 days 00:00:17,0 days 00:31:42,4.0,0 days 01:49:03,sydney_2000,AUS
+2301,5306,Ivan,Raña Fuentes,ESP,8,0 days 00:17:48,0 days 00:00:22,0 days 00:58:51,0 days 00:00:17,0 days 00:31:47,5.0,0 days 01:49:09,sydney_2000,AUS
+2301,5786,Miles,Stewart,AUS,21,0 days 00:17:55,0 days 00:00:24,0 days 00:58:41,0 days 00:00:17,0 days 00:31:54,6.0,0 days 01:49:13,sydney_2000,AUS
+2301,5324,Olivier,Marceau,SUI,45,0 days 00:17:51,0 days 00:00:19,0 days 00:57:51,0 days 00:00:19,0 days 00:32:52,7.0,0 days 01:49:18,sydney_2000,AUS
+2301,5310,Reto,Hug,SUI,24,0 days 00:17:55,0 days 00:00:21,0 days 00:58:54,0 days 00:00:17,0 days 00:31:51,8.0,0 days 01:49:21,sydney_2000,AUS
+2301,5708,Simon,Lessing,GBR,2,0 days 00:17:18,0 days 00:00:24,0 days 00:59:21,0 days 00:00:17,0 days 00:31:58,9.0,0 days 01:49:23,sydney_2000,AUS
+2301,5305,Tim,Don,GBR,3,0 days 00:17:37,0 days 00:00:21,0 days 00:59:12,0 days 00:00:17,0 days 00:31:57,10.0,0 days 01:49:28,sydney_2000,AUS
+2301,5355,Andriy,Glushchenko,UKR,44,0 days 00:17:40,0 days 00:00:29,0 days 00:59:07,0 days 00:00:22,0 days 00:31:49,11.0,0 days 01:49:30,sydney_2000,AUS
+2301,5322,Andreas,Raelert,GER,51,0 days 00:17:49,0 days 00:00:22,0 days 00:58:53,0 days 00:00:16,0 days 00:32:08,12.0,0 days 01:49:31,sydney_2000,AUS
+2301,5350,Martin,Krnavek,CZE,33,0 days 00:17:49,0 days 00:00:21,0 days 00:58:59,0 days 00:00:21,0 days 00:32:05,13.0,0 days 01:49:37,sydney_2000,AUS
+2301,5304,Leandro,Macedo,BRA,4,0 days 00:18:24,0 days 00:00:21,0 days 00:58:18,0 days 00:00:19,0 days 00:32:24,14.0,0 days 01:49:49,sydney_2000,AUS
+2301,5341,Volodymyr,Polikarpenko,UKR,43,0 days 00:17:35,0 days 00:00:22,0 days 00:59:15,0 days 00:00:21,0 days 00:32:13,15.0,0 days 01:49:50,sydney_2000,AUS
+2301,5660,Craig,Watson,NZL,15,0 days 00:17:41,0 days 00:00:22,0 days 00:58:57,0 days 00:00:19,0 days 00:32:37,16.0,0 days 01:50:01,sydney_2000,AUS
+2301,5325,Hunter,Kemper,USA,38,0 days 00:17:48,0 days 00:00:22,0 days 00:58:57,0 days 00:00:17,0 days 00:32:37,17.0,0 days 01:50:04,sydney_2000,AUS
+2301,10057,Markus,Keller,SUI,25,0 days 00:18:15,0 days 00:00:21,0 days 00:58:29,0 days 00:00:21,0 days 00:32:45,18.0,0 days 01:50:15,sydney_2000,AUS
+2301,5326,Carl,Blasco,FRA,46,0 days 00:17:37,0 days 00:00:27,0 days 00:58:57,0 days 00:00:19,0 days 00:32:52,19.0,0 days 01:50:17,sydney_2000,AUS
+2301,5301,Conrad,Stoltz,RSA,20,0 days 00:18:25,0 days 00:00:22,0 days 00:57:17,0 days 00:00:21,0 days 00:33:58,20.0,0 days 01:50:24,sydney_2000,AUS
+2301,5820,Takumi,Obara,JPN,29,0 days 00:17:46,0 days 00:00:24,0 days 00:59:01,0 days 00:00:17,0 days 00:32:58,21.0,0 days 01:50:28,sydney_2000,AUS
+2301,5349,Juraci,Moreira,BRA,5,0 days 00:18:26,0 days 00:00:22,0 days 00:58:25,0 days 00:00:19,0 days 00:33:08,22.0,0 days 01:50:43,sydney_2000,AUS
+2301,5333,Eneko,Llanos Burguera,ESP,7,0 days 00:18:18,0 days 00:00:24,0 days 00:58:22,0 days 00:00:19,0 days 00:33:19,23.0,0 days 01:50:47,sydney_2000,AUS
+2301,10056,Jean-Christophe,Guinchard,SUI,26,0 days 00:18:25,0 days 00:00:21,0 days 00:58:18,0 days 00:00:17,0 days 00:33:27,24.0,0 days 01:50:50,sydney_2000,AUS
+2301,10169,Ryan,Bolton,USA,39,0 days 00:18:00,0 days 00:00:29,0 days 00:58:45,0 days 00:00:19,0 days 00:33:14,25.0,0 days 01:50:52,sydney_2000,AUS
+2301,5308,Hamish,Carter,NZL,14,0 days 00:17:23,0 days 00:00:24,0 days 00:59:15,0 days 00:00:19,0 days 00:33:31,26.0,0 days 01:50:56,sydney_2000,AUS
+2301,5661,Craig,Walton,AUS,22,0 days 00:17:17,0 days 00:00:26,0 days 00:59:16,0 days 00:00:19,0 days 00:33:35,27.0,0 days 01:50:56,sydney_2000,AUS
+2301,5706,Oscar,Galindez,ARG,48,0 days 00:18:27,0 days 00:00:22,0 days 00:58:58,0 days 00:00:21,0 days 00:32:48,28.0,0 days 01:50:58,sydney_2000,AUS
+2301,5700,Johannes,Enzenhofer,AUT,27,0 days 00:17:59,0 days 00:00:22,0 days 00:58:45,0 days 00:00:24,0 days 00:33:28,29.0,0 days 01:51:01,sydney_2000,AUS
+2301,5357,Csaba,Kuttor,HUN,35,0 days 00:17:37,0 days 00:00:26,0 days 00:59:10,0 days 00:00:24,0 days 00:33:23,30.0,0 days 01:51:05,sydney_2000,AUS
+2301,10059,Stephan,Bignet,FRA,47,0 days 00:17:34,0 days 00:00:26,0 days 00:59:12,0 days 00:00:22,0 days 00:33:33,31.0,0 days 01:51:11,sydney_2000,AUS
+2301,5611,Alessandro,Bottoni,ITA,19,0 days 00:18:22,0 days 00:00:26,0 days 00:58:24,0 days 00:00:19,0 days 00:33:45,32.0,0 days 01:51:18,sydney_2000,AUS
+2301,5356,Vasilis,Krommidas,GRE,41,0 days 00:18:00,0 days 00:00:24,0 days 00:58:51,0 days 00:00:24,0 days 00:33:46,33.0,0 days 01:51:27,sydney_2000,AUS
+2301,5335,Peter,Robertson,AUS,23,0 days 00:18:26,0 days 00:00:19,0 days 00:58:22,0 days 00:00:17,0 days 00:34:10,34.0,0 days 01:51:38,sydney_2000,AUS
+2301,5656,Joachim,Willen,SWE,52,0 days 00:17:27,0 days 00:00:21,0 days 00:59:24,0 days 00:00:17,0 days 00:34:08,35.0,0 days 01:51:39,sydney_2000,AUS
+2301,5705,Hideo,Fukui,JPN,30,0 days 00:17:27,0 days 00:00:29,0 days 00:59:11,0 days 00:00:19,0 days 00:34:35,36.0,0 days 01:52:03,sydney_2000,AUS
+2301,5346,Gilberto,Gonzalez,VEN,53,0 days 00:18:24,0 days 00:00:29,0 days 00:58:20,0 days 00:00:19,0 days 00:34:38,37.0,0 days 01:52:13,sydney_2000,AUS
+2301,10171,Ben,Bright,NZL,16,0 days 00:17:50,0 days 00:00:22,0 days 00:58:48,0 days 00:00:21,0 days 00:34:50,38.0,0 days 01:52:16,sydney_2000,AUS
+2301,5604,Paulo Armando,Barcellos Saraiva,BRA,6,0 days 00:18:23,0 days 00:00:22,0 days 00:58:30,0 days 00:00:21,0 days 00:36:03,39.0,0 days 01:53:41,sydney_2000,AUS
+2301,5826,Nick,Radkewich,USA,40,0 days 00:18:21,0 days 00:00:22,0 days 00:58:29,0 days 00:00:24,0 days 00:36:05,40.0,0 days 01:53:43,sydney_2000,AUS
+2301,10170,Matias,Brain,CHI,42,0 days 00:18:27,0 days 00:00:27,0 days 00:58:20,0 days 00:00:24,0 days 00:36:01,41.0,0 days 01:53:43,sydney_2000,AUS
+2301,28487,Eric,Van Der Linden,NED,10,0 days 00:17:57,0 days 00:00:24,0 days 00:58:47,0 days 00:00:22,0 days 00:36:58,42.0,0 days 01:54:31,sydney_2000,AUS
+2301,10168,Rob,Barel,NED,11,0 days 00:18:14,0 days 00:00:17,0 days 01:03:16,0 days 00:00:14,0 days 00:33:30,43.0,0 days 01:55:36,sydney_2000,AUS
+2301,10160,Jan,Hansen,DEN,17,0 days 00:19:02,0 days 00:00:21,0 days 01:02:28,0 days 00:00:19,0 days 00:33:29,44.0,0 days 01:55:41,sydney_2000,AUS
+2301,10058,Roland,Melis,AHO,28,0 days 00:18:49,0 days 00:00:31,0 days 01:02:31,0 days 00:00:16,0 days 00:34:01,45.0,0 days 01:56:10,sydney_2000,AUS
+2301,5303,Hiroyuki,Nishiuchi,JPN,31,0 days 00:17:50,0 days 00:00:24,0 days 01:03:39,0 days 00:00:17,0 days 00:34:46,46.0,0 days 01:56:59,sydney_2000,AUS
+2301,6400,Mikhail,Kuznestov,KAZ,37,0 days 00:18:27,0 days 00:00:26,0 days 01:04:17,0 days 00:00:21,0 days 00:35:38,47.0,0 days 01:59:13,sydney_2000,AUS
+2301,28488,Dennis,Looze,NED,12,0 days 00:17:46,0 days 00:00:21,0 days 00:58:59,0 days 00:00:19,0 days 00:42:54,48.0,0 days 02:00:22,sydney_2000,AUS
+1791,5308,Hamish,Carter,NZL,28,0 days 00:18:19,0 days 00:00:19,0 days 01:00:24,0 days 00:00:17,0 days 00:32:04,1.0,0 days 01:51:06,athens_2004,GRE
+1791,5297,Bevan,Docherty,NZL,27,0 days 00:18:13,0 days 00:00:19,0 days 01:00:32,0 days 00:00:19,0 days 00:32:10,2.0,0 days 01:51:14,athens_2004,GRE
+1791,5320,Sven,Riederer,SUI,48,0 days 00:18:17,0 days 00:00:17,0 days 01:00:28,0 days 00:00:19,0 days 00:32:31,3.0,0 days 01:51:32,athens_2004,GRE
+1791,5298,Greg,Bennett,AUS,24,0 days 00:18:19,0 days 00:00:16,0 days 01:01:13,0 days 00:00:19,0 days 00:31:53,4.0,0 days 01:51:41,athens_2004,GRE
+1791,5321,Frederic,Belaubre,FRA,50,0 days 00:18:04,0 days 00:00:19,0 days 01:00:39,0 days 00:00:24,0 days 00:32:58,5.0,0 days 01:52:00,athens_2004,GRE
+1791,5322,Andreas,Raelert,GER,15,0 days 00:18:07,0 days 00:00:17,0 days 01:01:23,0 days 00:00:17,0 days 00:32:47,6.0,0 days 01:52:35,athens_2004,GRE
+1791,5323,Rasmus,Henning,DEN,6,0 days 00:18:19,0 days 00:00:16,0 days 01:01:13,0 days 00:00:17,0 days 00:32:49,7.0,0 days 01:52:36,athens_2004,GRE
+1791,5324,Olivier,Marceau,SUI,46,0 days 00:18:17,0 days 00:00:17,0 days 01:00:28,0 days 00:00:19,0 days 00:33:40,8.0,0 days 01:52:44,athens_2004,GRE
+1791,5325,Hunter,Kemper,USA,8,0 days 00:18:11,0 days 00:00:19,0 days 01:02:23,0 days 00:00:22,0 days 00:31:51,9.0,0 days 01:52:46,athens_2004,GRE
+1791,5307,Simon,Thompson,AUS,26,0 days 00:18:19,0 days 00:00:17,0 days 01:02:17,0 days 00:00:16,0 days 00:31:53,10.0,0 days 01:52:47,athens_2004,GRE
+1791,5302,Simon,Whitfield,CAN,16,0 days 00:18:21,0 days 00:00:19,0 days 01:02:15,0 days 00:00:19,0 days 00:32:19,11.0,0 days 01:53:15,athens_2004,GRE
+1791,5326,Carl,Blasco,FRA,51,0 days 00:18:06,0 days 00:00:17,0 days 01:01:24,0 days 00:00:19,0 days 00:33:30,12.0,0 days 01:53:20,athens_2004,GRE
+1791,5327,Hirokatsu,Tayama,JPN,34,0 days 00:18:03,0 days 00:00:17,0 days 01:01:25,0 days 00:00:17,0 days 00:33:42,13.0,0 days 01:53:28,athens_2004,GRE
+1791,5328,Stephane,Poulat,FRA,49,0 days 00:18:04,0 days 00:00:19,0 days 01:01:24,0 days 00:00:19,0 days 00:34:04,14.0,0 days 01:53:50,athens_2004,GRE
+1791,73138,Igor,Sysoev,RUS,41,0 days 00:18:00,0 days 00:00:20,0 days 01:02:34,0 days 00:00:22,0 days 00:32:56,15.0,0 days 01:53:50,athens_2004,GRE
+1791,5330,Andrew,Johns,GBR,43,0 days 00:18:11,0 days 00:00:19,0 days 01:00:33,0 days 00:00:19,0 days 00:35:11,16.0,0 days 01:54:15,athens_2004,GRE
+1791,5331,Danylo,Sapunov,UKR,21,0 days 00:18:14,0 days 00:00:19,0 days 01:02:21,0 days 00:00:19,0 days 00:33:38,17.0,0 days 01:54:33,athens_2004,GRE
+1791,5305,Tim,Don,GBR,44,0 days 00:18:07,0 days 00:00:17,0 days 01:01:22,0 days 00:00:19,0 days 00:34:54,18.0,0 days 01:54:42,athens_2004,GRE
+1791,5332,Maik,Petzold,GER,14,0 days 00:18:17,0 days 00:00:17,0 days 01:02:18,0 days 00:00:19,0 days 00:33:57,19.0,0 days 01:54:50,athens_2004,GRE
+1791,5333,Eneko,Llanos Burguera,ESP,31,0 days 00:18:17,0 days 00:00:17,0 days 01:02:18,0 days 00:00:20,0 days 00:33:58,20.0,0 days 01:54:52,athens_2004,GRE
+1791,5334,Marko,Albert,EST,22,0 days 00:18:01,0 days 00:00:17,0 days 01:01:31,0 days 00:00:19,0 days 00:35:37,21.0,0 days 01:55:26,athens_2004,GRE
+1791,5300,Andy,Potts,USA,9,0 days 00:17:49,0 days 00:00:17,0 days 01:02:46,0 days 00:00:22,0 days 00:34:42,22.0,0 days 01:55:36,athens_2004,GRE
+1791,5306,Ivan,Raña Fuentes,ESP,30,0 days 00:18:08,0 days 00:00:17,0 days 01:02:29,0 days 00:00:20,0 days 00:34:50,23.0,0 days 01:55:44,athens_2004,GRE
+1791,5335,Peter,Robertson,AUS,25,0 days 00:18:16,0 days 00:00:16,0 days 01:01:17,0 days 00:00:17,0 days 00:35:55,24.0,0 days 01:55:44,athens_2004,GRE
+1791,5336,Dmitriy,Gaag,KAZ,20,0 days 00:18:29,0 days 00:00:17,0 days 01:05:05,0 days 00:00:19,0 days 00:32:36,25.0,0 days 01:56:28,athens_2004,GRE
+1791,5337,Sebastian,Dehmer,GER,12,0 days 00:18:23,0 days 00:00:17,0 days 01:05:14,0 days 00:00:19,0 days 00:33:07,26.0,0 days 01:57:01,athens_2004,GRE
+1791,5338,Victor,Plata,USA,10,0 days 00:18:16,0 days 00:00:17,0 days 01:05:23,0 days 00:00:22,0 days 00:33:12,27.0,0 days 01:57:09,athens_2004,GRE
+1791,5339,Daniel,Fontana,ITA,19,0 days 00:18:25,0 days 00:00:19,0 days 01:05:11,0 days 00:00:19,0 days 00:33:19,28.0,0 days 01:57:14,athens_2004,GRE
+1791,5340,Filip,Ospaly,CZE,36,0 days 00:18:23,0 days 00:00:19,0 days 01:05:13,0 days 00:00:19,0 days 00:33:22,29.0,0 days 01:57:17,athens_2004,GRE
+1791,5341,Volodymyr,Polikarpenko,UKR,37,0 days 00:18:03,0 days 00:00:19,0 days 01:05:34,0 days 00:00:19,0 days 00:33:43,30.0,0 days 01:57:39,athens_2004,GRE
+1791,5304,Leandro,Macedo,BRA,3,0 days 00:18:25,0 days 00:00:16,0 days 01:05:14,0 days 00:00:22,0 days 00:33:44,31.0,0 days 01:57:39,athens_2004,GRE
+1791,5303,Hiroyuki,Nishiuchi,JPN,33,0 days 00:18:20,0 days 00:00:17,0 days 01:05:16,0 days 00:00:19,0 days 00:33:49,32.0,0 days 01:57:43,athens_2004,GRE
+1791,80764,Nathan,Richmond,NZL,29,0 days 00:18:04,0 days 00:00:19,0 days 01:02:31,0 days 00:00:19,0 days 00:37:06,33.0,0 days 01:58:00,athens_2004,GRE
+1791,5344,Paulo,Miyashiro,BRA,5,0 days 00:17:57,0 days 00:00:17,0 days 01:05:41,0 days 00:00:22,0 days 00:34:20,34.0,0 days 01:58:15,athens_2004,GRE
+1791,5345,Tyler,Butterfield,BER,2,0 days 00:19:34,0 days 00:00:17,0 days 01:04:02,0 days 00:00:24,0 days 00:34:31,35.0,0 days 01:58:26,athens_2004,GRE
+1791,5346,Gilberto,Gonzalez,VEN,18,0 days 00:18:24,0 days 00:00:19,0 days 01:05:09,0 days 00:00:19,0 days 00:35:19,36.0,0 days 01:59:12,athens_2004,GRE
+1791,5347,Norbert,Domnik,AUT,42,0 days 00:19:34,0 days 00:00:17,0 days 01:04:02,0 days 00:00:22,0 days 00:35:20,37.0,0 days 01:59:13,athens_2004,GRE
+1791,88678,Eligio,Cervantes Islas,MEX,40,0 days 00:18:44,0 days 00:00:17,0 days 01:04:54,0 days 00:00:20,0 days 00:35:31,38.0,0 days 01:59:26,athens_2004,GRE
+1791,5348,Brent,McMahon,CAN,17,0 days 00:18:30,0 days 00:00:17,0 days 01:05:08,0 days 00:00:19,0 days 00:35:49,39.0,0 days 01:59:44,athens_2004,GRE
+1791,5310,Reto,Hug,SUI,47,0 days 00:18:19,0 days 00:00:17,0 days 01:05:19,0 days 00:00:17,0 days 00:37:44,40.0,0 days 02:01:40,athens_2004,GRE
+1791,5349,Juraci,Moreira,BRA,4,0 days 00:18:27,0 days 00:00:17,0 days 01:09:19,0 days 00:00:24,0 days 00:34:31,41.0,0 days 02:02:35,athens_2004,GRE
+1791,5350,Martin,Krnavek,CZE,35,0 days 00:18:19,0 days 00:00:20,0 days 01:05:16,0 days 00:00:20,0 days 00:38:58,42.0,0 days 02:02:54,athens_2004,GRE
+1791,5351,Daniel,Lee Chi Wo,HKG,1,0 days 00:18:17,0 days 00:00:19,0 days 01:05:19,0 days 00:00:19,0 days 00:39:35,43.0,0 days 02:03:29,athens_2004,GRE
+1791,50098,Javier,Rosas Sierra,MEX,39,0 days 00:18:42,0 days 00:00:17,0 days 01:09:03,0 days 00:00:19,0 days 00:35:59,44.0,0 days 02:04:02,athens_2004,GRE
+1791,5353,Marc,Jenkins,GBR,45,0 days 00:18:15,0 days 00:00:22,0 days 01:08:29,0 days 00:00:24,0 days 00:38:27,45.0,0 days 02:05:33,athens_2004,GRE
+4392,5692,Jan,Frodeno,GER,32,0 days 00:18:13,0 days 00:00:26,0 days 00:59:01,0 days 00:00:26,0 days 00:30:45,1.0,0 days 01:48:52,beijing_2008,CHN
+4392,5302,Simon,Whitfield,CAN,16,0 days 00:18:17,0 days 00:00:26,0 days 00:58:55,0 days 00:00:29,0 days 00:30:48,2.0,0 days 01:48:58,beijing_2008,CHN
+4392,5297,Bevan,Docherty,NZL,27,0 days 00:18:23,0 days 00:00:27,0 days 00:58:51,0 days 00:00:26,0 days 00:30:56,3.0,0 days 01:49:05,beijing_2008,CHN
+4392,5695,Javier,Gomez Noya,ESP,30,0 days 00:18:08,0 days 00:00:26,0 days 00:59:05,0 days 00:00:29,0 days 00:31:02,4.0,0 days 01:49:13,beijing_2008,CHN
+4392,5306,Ivan,Raña Fuentes,ESP,31,0 days 00:18:22,0 days 00:00:26,0 days 00:58:52,0 days 00:00:27,0 days 00:31:14,5.0,0 days 01:49:22,beijing_2008,CHN
+4392,5638,Daniel,Unger,GER,34,0 days 00:18:25,0 days 00:00:26,0 days 00:58:49,0 days 00:00:26,0 days 00:31:35,6.0,0 days 01:49:43,beijing_2008,CHN
+4392,5325,Hunter,Kemper,USA,21,0 days 00:18:03,0 days 00:00:29,0 days 00:59:05,0 days 00:00:27,0 days 00:31:40,7.0,0 days 01:49:48,beijing_2008,CHN
+4392,5323,Rasmus,Henning,DEN,41,0 days 00:18:17,0 days 00:00:26,0 days 00:58:57,0 days 00:00:27,0 days 00:31:48,8.0,0 days 01:49:57,beijing_2008,CHN
+4392,73138,Igor,Sysoev,RUS,26,0 days 00:18:01,0 days 00:00:31,0 days 00:59:15,0 days 00:00:29,0 days 00:31:41,9.0,0 days 01:49:59,beijing_2008,CHN
+4392,5321,Frederic,Belaubre,FRA,38,0 days 00:18:02,0 days 00:00:27,0 days 00:59:11,0 days 00:00:29,0 days 00:31:48,10.0,0 days 01:50:00,beijing_2008,CHN
+4392,5591,Courtney,Atkinson,AUS,11,0 days 00:18:05,0 days 00:00:26,0 days 00:59:08,0 days 00:00:29,0 days 00:31:59,11.0,0 days 01:50:10,beijing_2008,CHN
+4392,7788,Alistair,Brownlee,GBR,35,0 days 00:18:11,0 days 00:00:26,0 days 00:59:05,0 days 00:00:29,0 days 00:32:07,12.0,0 days 01:50:19,beijing_2008,CHN
+4392,5652,Axel,Zeebroek,BEL,18,0 days 00:18:29,0 days 00:00:26,0 days 00:57:47,0 days 00:00:29,0 days 00:33:15,13.0,0 days 01:50:30,beijing_2008,CHN
+4392,6560,William,Clarke,GBR,36,0 days 00:18:53,0 days 00:00:26,0 days 00:58:23,0 days 00:00:31,0 days 00:32:18,14.0,0 days 01:50:32,beijing_2008,CHN
+4392,5824,Christian,Prochnow,GER,33,0 days 00:18:23,0 days 00:00:26,0 days 00:58:55,0 days 00:00:26,0 days 00:32:21,15.0,0 days 01:50:33,beijing_2008,CHN
+4392,5711,Brad,Kahlefeldt,AUS,12,0 days 00:18:16,0 days 00:00:29,0 days 00:58:55,0 days 00:00:27,0 days 00:32:25,16.0,0 days 01:50:36,beijing_2008,CHN
+4392,5823,Bruno,Pais,POR,54,0 days 00:18:27,0 days 00:00:26,0 days 00:58:47,0 days 00:00:26,0 days 00:32:31,17.0,0 days 01:50:40,beijing_2008,CHN
+4392,6442,Jarrod,Shoemaker,USA,23,0 days 00:18:18,0 days 00:00:29,0 days 00:59:03,0 days 00:00:27,0 days 00:32:27,18.0,0 days 01:50:46,beijing_2008,CHN
+4392,5324,Olivier,Marceau,SUI,44,0 days 00:18:54,0 days 00:00:29,0 days 00:58:18,0 days 00:00:31,0 days 00:32:37,19.0,0 days 01:50:50,beijing_2008,CHN
+4392,5340,Filip,Ospaly,CZE,42,0 days 00:18:16,0 days 00:00:29,0 days 00:58:55,0 days 00:00:29,0 days 00:32:40,20.0,0 days 01:50:53,beijing_2008,CHN
+4392,5331,Danylo,Sapunov,UKR,52,0 days 00:18:11,0 days 00:00:29,0 days 00:59:05,0 days 00:00:31,0 days 00:32:42,21.0,0 days 01:50:58,beijing_2008,CHN
+4392,7747,Dmitry,Polyanskiy,RUS,25,0 days 00:18:14,0 days 00:00:26,0 days 00:59:07,0 days 00:00:29,0 days 00:32:52,22.0,0 days 01:51:10,beijing_2008,CHN
+4392,5320,Sven,Riederer,SUI,45,0 days 00:18:13,0 days 00:00:34,0 days 00:58:52,0 days 00:00:27,0 days 00:33:10,23.0,0 days 01:51:19,beijing_2008,CHN
+4392,7743,Alexander,Bryukhankov,RUS,24,0 days 00:18:10,0 days 00:00:29,0 days 00:59:08,0 days 00:00:32,0 days 00:33:00,24.0,0 days 01:51:22,beijing_2008,CHN
+4392,10146,Dirk,Bockel,LUX,55,0 days 00:18:26,0 days 00:00:26,0 days 00:57:52,0 days 00:00:26,0 days 00:34:19,25.0,0 days 01:51:31,beijing_2008,CHN
+4392,5349,Juraci,Moreira,BRA,8,0 days 00:18:24,0 days 00:00:29,0 days 00:58:50,0 days 00:00:29,0 days 00:33:21,26.0,0 days 01:51:35,beijing_2008,CHN
+4392,5624,Peter,Croes,BEL,17,0 days 00:18:26,0 days 00:00:26,0 days 00:58:51,0 days 00:00:31,0 days 00:33:24,27.0,0 days 01:51:40,beijing_2008,CHN
+4392,5629,Paul,Tichelaar,CAN,15,0 days 00:18:24,0 days 00:00:26,0 days 00:58:51,0 days 00:00:29,0 days 00:33:34,28.0,0 days 01:51:45,beijing_2008,CHN
+4392,5310,Reto,Hug,SUI,43,0 days 00:18:54,0 days 00:00:26,0 days 00:58:20,0 days 00:00:29,0 days 00:33:53,29.0,0 days 01:52:04,beijing_2008,CHN
+4392,5654,Ryosuke,Yamamoto,JPN,6,0 days 00:18:27,0 days 00:00:26,0 days 00:58:52,0 days 00:00:29,0 days 00:33:55,30.0,0 days 01:52:11,beijing_2008,CHN
+4392,5605,Sander,Berk,NED,2,0 days 00:18:13,0 days 00:00:27,0 days 00:59:05,0 days 00:00:34,0 days 00:33:57,31.0,0 days 01:52:17,beijing_2008,CHN
+4392,5802,Matthew,Reed,USA,22,0 days 00:18:25,0 days 00:00:29,0 days 00:58:48,0 days 00:00:27,0 days 00:34:19,32.0,0 days 01:52:30,beijing_2008,CHN
+4392,5339,Daniel,Fontana,ITA,10,0 days 00:18:22,0 days 00:00:27,0 days 00:58:55,0 days 00:00:27,0 days 00:34:25,33.0,0 days 01:52:39,beijing_2008,CHN
+4392,5834,Shane,Reed,NZL,29,0 days 00:18:00,0 days 00:00:27,0 days 00:59:19,0 days 00:00:26,0 days 00:34:34,34.0,0 days 01:52:47,beijing_2008,CHN
+4392,5341,Volodymyr,Polikarpenko,UKR,19,0 days 00:18:23,0 days 00:00:29,0 days 00:58:58,0 days 00:00:29,0 days 00:34:32,35.0,0 days 01:52:51,beijing_2008,CHN
+4392,5662,Laurent,Vidal,FRA,40,0 days 00:18:49,0 days 00:00:29,0 days 00:58:24,0 days 00:00:29,0 days 00:34:51,36.0,0 days 01:53:02,beijing_2008,CHN
+4392,5929,Reinaldo,Colucci,BRA,7,0 days 00:18:52,0 days 00:00:26,0 days 00:58:28,0 days 00:00:29,0 days 00:34:56,37.0,0 days 01:53:13,beijing_2008,CHN
+4392,5582,Simon,Agoston,AUT,47,0 days 00:18:19,0 days 00:00:29,0 days 00:59:00,0 days 00:00:31,0 days 00:35:02,38.0,0 days 01:53:23,beijing_2008,CHN
+4392,5296,Kris,Gemmell,NZL,28,0 days 00:18:40,0 days 00:00:24,0 days 00:58:34,0 days 00:00:26,0 days 00:35:42,39.0,0 days 01:53:49,beijing_2008,CHN
+4392,5664,Emilio,D'Aquino,ITA,9,0 days 00:18:22,0 days 00:00:27,0 days 00:58:55,0 days 00:00:29,0 days 00:35:43,40.0,0 days 01:53:58,beijing_2008,CHN
+4392,5334,Marko,Albert,EST,4,0 days 00:18:09,0 days 00:00:29,0 days 00:59:12,0 days 00:00:29,0 days 00:35:54,41.0,0 days 01:54:13,beijing_2008,CHN
+4392,10966,Christopher,Felgate,ZIM,20,0 days 00:18:21,0 days 00:00:27,0 days 00:59:00,0 days 00:00:32,0 days 00:36:09,42.0,0 days 01:54:31,beijing_2008,CHN
+4392,5351,Daniel,Lee Chi Wo,HKG,50,0 days 00:18:54,0 days 00:00:27,0 days 00:58:24,0 days 00:00:31,0 days 00:36:22,43.0,0 days 01:54:39,beijing_2008,CHN
+4392,6227,Francisco,Serrano Plowell,MEX,3,0 days 00:18:55,0 days 00:00:26,0 days 00:58:08,0 days 00:00:34,0 days 00:36:42,44.0,0 days 01:54:46,beijing_2008,CHN
+4392,5881,Duarte Silva,Marques,POR,53,0 days 00:18:19,0 days 00:00:26,0 days 00:59:05,0 days 00:00:26,0 days 00:36:47,45.0,0 days 01:55:06,beijing_2008,CHN
+4392,16881,Daqing,Wang,CHN,56,0 days 00:18:05,0 days 00:00:29,0 days 00:59:15,0 days 00:00:32,0 days 00:37:16,46.0,0 days 01:55:40,beijing_2008,CHN
+4392,5357,Csaba,Kuttor,HUN,51,0 days 00:18:09,0 days 00:00:27,0 days 00:59:13,0 days 00:00:36,0 days 00:37:27,47.0,0 days 01:55:53,beijing_2008,CHN
+4392,5327,Hirokatsu,Tayama,JPN,5,0 days 00:18:03,0 days 00:00:29,0 days 00:59:12,0 days 00:00:29,0 days 00:37:58,48.0,0 days 01:56:12,beijing_2008,CHN
+4392,5759,Omar,Tayara Rodriguez,ESP,48,0 days 00:18:23,0 days 00:00:29,0 days 00:58:55,0 days 00:00:32,0 days 00:38:19,49.0,0 days 01:56:40,beijing_2008,CHN
+4392,6496,Colin,Jenkins,CAN,14,0 days 00:18:12,0 days 00:00:29,0 days 00:58:59,0 days 00:00:31,0 days 00:38:39,50.0,0 days 01:56:50,beijing_2008,CHN
+8597,7788,Alistair,Brownlee,GBR,30,0 days 00:17:04,0 days 00:00:39,0 days 00:59:08,0 days 00:00:27,0 days 00:29:07,1.0,0 days 01:46:25,london_2012,GBR
+8597,5695,Javier,Gomez Noya,ESP,51,0 days 00:17:00,0 days 00:00:36,0 days 00:59:16,0 days 00:00:28,0 days 00:29:16,2.0,0 days 01:46:36,london_2012,GBR
+8597,11378,Jonathan,Brownlee,GBR,31,0 days 00:17:02,0 days 00:00:38,0 days 00:59:11,0 days 00:00:28,0 days 00:29:37,3.0,0 days 01:46:56,london_2012,GBR
+8597,5718,David,Hauss,FRA,11,0 days 00:17:24,0 days 00:00:38,0 days 00:58:50,0 days 00:00:29,0 days 00:29:53,4.0,0 days 01:47:14,london_2012,GBR
+8597,5662,Laurent,Vidal,FRA,14,0 days 00:17:27,0 days 00:00:43,0 days 00:58:42,0 days 00:00:28,0 days 00:30:01,5.0,0 days 01:47:21,london_2012,GBR
+8597,5692,Jan,Frodeno,GER,46,0 days 00:17:20,0 days 00:00:46,0 days 00:58:46,0 days 00:00:28,0 days 00:30:06,6.0,0 days 01:47:26,london_2012,GBR
+8597,7743,Alexander,Bryukhankov,RUS,25,0 days 00:17:22,0 days 00:00:40,0 days 00:58:51,0 days 00:00:32,0 days 00:30:10,7.0,0 days 01:47:35,london_2012,GBR
+8597,5320,Sven,Riederer,SUI,21,0 days 00:17:22,0 days 00:00:39,0 days 00:58:52,0 days 00:00:30,0 days 00:30:23,8.0,0 days 01:47:46,london_2012,GBR
+8597,10539,Joao,Silva,POR,17,0 days 00:17:22,0 days 00:00:36,0 days 00:58:54,0 days 00:00:26,0 days 00:30:33,9.0,0 days 01:47:51,london_2012,GBR
+8597,11060,Alessandro,Fabian,ITA,35,0 days 00:17:01,0 days 00:00:41,0 days 00:59:10,0 days 00:00:28,0 days 00:30:43,10.0,0 days 01:48:03,london_2012,GBR
+8597,11143,Vincent,Luis,FRA,12,0 days 00:17:20,0 days 00:00:38,0 days 00:58:53,0 days 00:00:27,0 days 00:31:00,11.0,0 days 01:48:18,london_2012,GBR
+8597,5297,Bevan,Docherty,NZL,54,0 days 00:17:26,0 days 00:00:37,0 days 00:58:51,0 days 00:00:29,0 days 00:31:12,12.0,0 days 01:48:35,london_2012,GBR
+8597,5651,Ivan,Vasiliev,RUS,27,0 days 00:17:03,0 days 00:00:46,0 days 00:59:04,0 days 00:00:28,0 days 00:31:22,13.0,0 days 01:48:43,london_2012,GBR
+8597,5325,Hunter,Kemper,USA,43,0 days 00:17:25,0 days 00:00:44,0 days 00:58:44,0 days 00:00:33,0 days 00:31:20,14.0,0 days 01:48:46,london_2012,GBR
+8597,5296,Kris,Gemmell,NZL,55,0 days 00:17:26,0 days 00:00:37,0 days 00:58:48,0 days 00:00:30,0 days 00:31:31,15.0,0 days 01:48:52,london_2012,GBR
+8597,5747,Steffen,Justus,GER,47,0 days 00:18:07,0 days 00:00:42,0 days 00:59:36,0 days 00:00:31,0 days 00:30:16,16.0,0 days 01:49:12,london_2012,GBR
+8597,16392,Richard,Murray,NED,19,0 days 00:18:11,0 days 00:00:35,0 days 00:59:38,0 days 00:00:26,0 days 00:30:25,17.0,0 days 01:49:15,london_2012,GBR
+8597,5591,Courtney,Atkinson,AUS,39,0 days 00:17:26,0 days 00:00:39,0 days 00:58:48,0 days 00:00:28,0 days 00:31:58,18.0,0 days 01:49:19,london_2012,GBR
+8597,11402,Mario,Mola,ESP,52,0 days 00:18:09,0 days 00:00:38,0 days 00:59:40,0 days 00:00:29,0 days 00:30:27,19.0,0 days 01:49:23,london_2012,GBR
+8597,5327,Hirokatsu,Tayama,JPN,38,0 days 00:17:24,0 days 00:00:44,0 days 00:58:45,0 days 00:00:34,0 days 00:31:57,20.0,0 days 01:49:24,london_2012,GBR
+8597,7747,Dmitry,Polyanskiy,RUS,26,0 days 00:17:14,0 days 00:00:38,0 days 01:00:35,0 days 00:00:29,0 days 00:30:28,21.0,0 days 01:49:24,london_2012,GBR
+8597,11092,Richard,Varga,SVK,18,0 days 00:16:56,0 days 00:00:41,0 days 00:59:15,0 days 00:00:30,0 days 00:32:03,22.0,0 days 01:49:25,london_2012,GBR
+8597,5942,Gavin,Noble,IRL,7,0 days 00:17:24,0 days 00:00:37,0 days 00:58:50,0 days 00:00:30,0 days 00:32:26,23.0,0 days 01:49:47,london_2012,GBR
+8597,7786,Jose Miguel,Perez,ESP,53,0 days 00:18:07,0 days 00:00:40,0 days 00:59:40,0 days 00:00:29,0 days 00:30:57,24.0,0 days 01:49:53,london_2012,GBR
+8597,6202,Kyle,Jones,CAN,3,0 days 00:18:31,0 days 00:00:38,0 days 00:59:17,0 days 00:00:29,0 days 00:31:03,25.0,0 days 01:49:58,london_2012,GBR
+8597,10166,Simon,De Cuyper,BEL,28,0 days 00:17:58,0 days 00:00:42,0 days 00:59:45,0 days 00:00:25,0 days 00:31:10,26.0,0 days 01:50:00,london_2012,GBR
+8597,5348,Brent,McMahon,CAN,4,0 days 00:18:04,0 days 00:00:40,0 days 00:59:40,0 days 00:00:30,0 days 00:31:09,27.0,0 days 01:50:03,london_2012,GBR
+8597,7503,Crisanto,Grajales Valencia,MEX,50,0 days 00:18:10,0 days 00:00:38,0 days 00:59:36,0 days 00:00:33,0 days 00:31:11,28.0,0 days 01:50:08,london_2012,GBR
+8597,29395,Davide,Uccellari,ITA,36,0 days 00:18:26,0 days 00:00:44,0 days 00:59:16,0 days 00:00:30,0 days 00:31:13,29.0,0 days 01:50:09,london_2012,GBR
+8597,6707,Jan,Celustka,CZE,44,0 days 00:17:25,0 days 00:00:40,0 days 00:58:49,0 days 00:00:29,0 days 00:32:54,30.0,0 days 01:50:17,london_2012,GBR
+8597,5332,Maik,Petzold,GER,48,0 days 00:17:23,0 days 00:00:42,0 days 00:58:47,0 days 00:00:31,0 days 00:33:00,31.0,0 days 01:50:23,london_2012,GBR
+8597,5711,Brad,Kahlefeldt,AUS,40,0 days 00:18:06,0 days 00:00:39,0 days 00:59:40,0 days 00:00:29,0 days 00:31:29,32.0,0 days 01:50:23,london_2012,GBR
+8597,11818,Ryan,Sissons,NZL,56,0 days 00:18:05,0 days 00:00:37,0 days 00:59:45,0 days 00:00:29,0 days 00:31:31,33.0,0 days 01:50:27,london_2012,GBR
+8597,5345,Tyler,Butterfield,BER,6,0 days 00:18:58,0 days 00:00:38,0 days 00:58:32,0 days 00:00:32,0 days 00:31:52,34.0,0 days 01:50:32,london_2012,GBR
+8597,15944,Brendan,Sexton,AUS,41,0 days 00:18:53,0 days 00:00:42,0 days 00:58:51,0 days 00:00:29,0 days 00:31:41,35.0,0 days 01:50:36,london_2012,GBR
+8597,5929,Reinaldo,Colucci,BRA,33,0 days 00:18:56,0 days 00:00:41,0 days 00:58:47,0 days 00:00:28,0 days 00:32:07,36.0,0 days 01:50:59,london_2012,GBR
+8597,5359,Stuart,Hayes,GBR,32,0 days 00:17:17,0 days 00:00:39,0 days 00:59:04,0 days 00:00:35,0 days 00:33:29,37.0,0 days 01:51:04,london_2012,GBR
+8597,15371,Gonzalo Raul,Tellechea,ARG,49,0 days 00:18:59,0 days 00:00:38,0 days 00:58:48,0 days 00:00:31,0 days 00:32:11,38.0,0 days 01:51:07,london_2012,GBR
+8597,5657,Ruedi,Wild,SUI,22,0 days 00:18:28,0 days 00:00:42,0 days 00:59:17,0 days 00:00:28,0 days 00:32:15,39.0,0 days 01:51:10,london_2012,GBR
+8597,5931,Andreas,Giglmayr,AUT,20,0 days 00:18:57,0 days 00:00:43,0 days 00:58:45,0 days 00:00:28,0 days 00:32:21,40.0,0 days 01:51:14,london_2012,GBR
+8597,5823,Bruno,Pais,POR,16,0 days 00:18:57,0 days 00:00:42,0 days 00:58:44,0 days 00:00:29,0 days 00:32:30,41.0,0 days 01:51:22,london_2012,GBR
+8597,5331,Danylo,Sapunov,UKR,23,0 days 00:18:08,0 days 00:00:42,0 days 00:59:35,0 days 00:00:29,0 days 00:32:38,42.0,0 days 01:51:32,london_2012,GBR
+8597,5742,Yuichi,Hosoda,JPN,37,0 days 00:18:06,0 days 00:00:43,0 days 00:59:37,0 days 00:00:31,0 days 00:32:43,43.0,0 days 01:51:40,london_2012,GBR
+8597,9917,Diogo,Sclebin,BRA,34,0 days 00:18:10,0 days 00:00:41,0 days 00:59:36,0 days 00:00:31,0 days 00:32:53,44.0,0 days 01:51:51,london_2012,GBR
+8597,6236,Premysl,Svarc,CZE,45,0 days 00:18:08,0 days 00:00:41,0 days 00:59:37,0 days 00:00:29,0 days 00:33:13,45.0,0 days 01:52:08,london_2012,GBR
+8597,16884,Faquan,Bai,CHN,2,0 days 00:17:55,0 days 00:00:46,0 days 00:59:46,0 days 00:00:33,0 days 00:33:26,46.0,0 days 01:52:26,london_2012,GBR
+8597,5750,Marek,Jaskolka,POL,8,0 days 00:17:58,0 days 00:00:41,0 days 00:59:45,0 days 00:00:29,0 days 00:33:45,47.0,0 days 01:52:38,london_2012,GBR
+8597,5620,Leonardo,Chacon,CRC,1,0 days 00:17:24,0 days 00:00:42,0 days 01:00:19,0 days 00:00:32,0 days 00:33:42,48.0,0 days 01:52:39,london_2012,GBR
+8597,10938,Hervé,Banti,MON,9,0 days 00:18:55,0 days 00:00:40,0 days 00:58:51,0 days 00:00:32,0 days 00:33:44,49.0,0 days 01:52:42,london_2012,GBR
+8597,5644,Felipe,Van De Wyngard,CHI,24,0 days 00:18:53,0 days 00:00:41,0 days 00:58:52,0 days 00:00:33,0 days 00:34:03,50.0,0 days 01:53:02,london_2012,GBR
+8597,5864,Manuel,Huerta,PUR,42,0 days 00:18:57,0 days 00:00:39,0 days 00:58:51,0 days 00:00:33,0 days 00:34:39,51.0,0 days 01:53:39,london_2012,GBR
+8597,10966,Christopher,Felgate,ZIM,10,0 days 00:18:09,0 days 00:00:43,0 days 00:59:36,0 days 00:00:34,0 days 00:34:51,52.0,0 days 01:53:53,london_2012,GBR
+8597,18332,Carlos Javier,Quinchara Forero,COL,29,0 days 00:18:02,0 days 00:00:47,0 days 00:59:37,0 days 00:00:31,0 days 00:35:13,53.0,0 days 01:54:10,london_2012,GBR
+8597,6777,Min Ho,Heo,KOR,15,0 days 00:18:02,0 days 00:00:38,0 days 00:59:46,0 days 00:00:28,0 days 00:35:36,54.0,0 days 01:54:30,london_2012,GBR
+305290,7788,Alistair,Brownlee,GBR,5,0 days 00:17:24,0 days 00:00:50,0 days 00:55:04,0 days 00:00:34,0 days 00:31:09,1.0,0 days 01:45:01,rio_2016,BRA
+305290,11378,Jonathan,Brownlee,GBR,6,0 days 00:17:24,0 days 00:00:50,0 days 00:55:04,0 days 00:00:33,0 days 00:31:16,2.0,0 days 01:45:07,rio_2016,BRA
+305290,30433,Henri,Schoeman,RSA,2,0 days 00:17:25,0 days 00:00:53,0 days 00:55:01,0 days 00:00:34,0 days 00:31:50,3.0,0 days 01:45:43,rio_2016,BRA
+305290,16392,Richard,Murray,NED,1,0 days 00:18:20,0 days 00:00:46,0 days 00:55:35,0 days 00:00:35,0 days 00:30:34,4.0,0 days 01:45:50,rio_2016,BRA
+305290,10536,Joao,Pereira,POR,11,0 days 00:18:03,0 days 00:00:46,0 days 00:55:52,0 days 00:00:33,0 days 00:30:38,5.0,0 days 01:45:52,rio_2016,BRA
+305290,40311,Marten,Van Riel,BEL,15,0 days 00:17:27,0 days 00:00:49,0 days 00:55:03,0 days 00:00:34,0 days 00:32:10,6.0,0 days 01:46:03,rio_2016,BRA
+305290,11143,Vincent,Luis,FRA,18,0 days 00:17:26,0 days 00:00:48,0 days 00:55:04,0 days 00:00:33,0 days 00:32:21,7.0,0 days 01:46:12,rio_2016,BRA
+305290,11402,Mario,Mola,ESP,56,0 days 00:17:37,0 days 00:00:46,0 days 00:56:18,0 days 00:00:33,0 days 00:31:12,8.0,0 days 01:46:26,rio_2016,BRA
+305290,10141,Aaron,Royle,AUS,9,0 days 00:17:26,0 days 00:00:48,0 days 00:55:05,0 days 00:00:36,0 days 00:32:47,9.0,0 days 01:46:42,rio_2016,BRA
+305290,28500,Ryan,Bailie,AUS,7,0 days 00:17:31,0 days 00:00:49,0 days 00:56:11,0 days 00:00:38,0 days 00:31:53,10.0,0 days 01:47:02,rio_2016,BRA
+305290,11092,Richard,Varga,SVK,49,0 days 00:17:18,0 days 00:00:49,0 days 00:55:10,0 days 00:00:34,0 days 00:33:26,11.0,0 days 01:47:17,rio_2016,BRA
+305290,7503,Crisanto,Grajales Valencia,MEX,23,0 days 00:17:59,0 days 00:00:50,0 days 00:55:52,0 days 00:00:34,0 days 00:32:13,12.0,0 days 01:47:28,rio_2016,BRA
+305290,41322,Kristian,Blummenfelt,NOR,25,0 days 00:17:39,0 days 00:00:49,0 days 00:56:12,0 days 00:00:34,0 days 00:32:17,13.0,0 days 01:47:31,rio_2016,BRA
+305290,11060,Alessandro,Fabian,ITA,46,0 days 00:17:22,0 days 00:00:49,0 days 00:55:07,0 days 00:00:40,0 days 00:33:37,14.0,0 days 01:47:35,rio_2016,BRA
+305290,49411,Tyler,Mislawchuk,CAN,52,0 days 00:17:31,0 days 00:00:48,0 days 00:56:23,0 days 00:00:35,0 days 00:32:33,15.0,0 days 01:47:50,rio_2016,BRA
+305290,11315,Andrea,Salvisberg,SUI,20,0 days 00:17:28,0 days 00:00:46,0 days 00:55:04,0 days 00:00:38,0 days 00:34:00,16.0,0 days 01:47:56,rio_2016,BRA
+305290,11818,Ryan,Sissons,NZL,36,0 days 00:17:34,0 days 00:00:48,0 days 00:56:20,0 days 00:00:34,0 days 00:32:45,17.0,0 days 01:48:01,rio_2016,BRA
+305290,29442,Fernando,Alarza,ESP,54,0 days 00:18:05,0 days 00:00:51,0 days 00:56:23,0 days 00:00:38,0 days 00:32:11,18.0,0 days 01:48:08,rio_2016,BRA
+305290,5320,Sven,Riederer,SUI,19,0 days 00:17:48,0 days 00:00:49,0 days 00:56:03,0 days 00:00:35,0 days 00:33:00,19.0,0 days 01:48:15,rio_2016,BRA
+305290,11001,Gábor,Faldum,HUN,26,0 days 00:18:00,0 days 00:00:45,0 days 00:55:56,0 days 00:00:33,0 days 00:33:06,20.0,0 days 01:48:20,rio_2016,BRA
+305290,12814,Tony,Dodds,NZL,35,0 days 00:17:31,0 days 00:00:47,0 days 00:56:24,0 days 00:00:36,0 days 00:33:06,21.0,0 days 01:48:24,rio_2016,BRA
+305290,6186,Irving,Perez,MEX,24,0 days 00:17:35,0 days 00:00:45,0 days 00:56:21,0 days 00:00:35,0 days 00:33:10,22.0,0 days 01:48:26,rio_2016,BRA
+305290,143997,Joe,Maloy,USA,39,0 days 00:18:03,0 days 00:00:50,0 days 00:56:25,0 days 00:00:35,0 days 00:32:37,23.0,0 days 01:48:30,rio_2016,BRA
+305290,28201,Ryan,Fisher,AUS,8,0 days 00:18:01,0 days 00:00:48,0 days 00:55:42,0 days 00:00:38,0 days 00:33:25,24.0,0 days 01:48:34,rio_2016,BRA
+305290,30249,Pierre,Le Corre,FRA,17,0 days 00:17:28,0 days 00:00:48,0 days 00:57:02,0 days 00:00:35,0 days 00:32:43,25.0,0 days 01:48:36,rio_2016,BRA
+305290,10955,Ron,Darmon,ISR,44,0 days 00:18:06,0 days 00:00:47,0 days 00:55:48,0 days 00:00:39,0 days 00:33:21,26.0,0 days 01:48:41,rio_2016,BRA
+305290,39908,Vicente,Hernandez,ESP,55,0 days 00:18:10,0 days 00:00:50,0 days 00:55:41,0 days 00:00:35,0 days 00:33:34,27.0,0 days 01:48:50,rio_2016,BRA
+305290,30058,Andreas,Schilling,DEN,34,0 days 00:18:11,0 days 00:00:48,0 days 00:55:33,0 days 00:00:38,0 days 00:33:46,28.0,0 days 01:48:56,rio_2016,BRA
+305290,17043,Ben,Kanute,USA,38,0 days 00:17:29,0 days 00:00:46,0 days 00:55:03,0 days 00:00:40,0 days 00:35:01,29.0,0 days 01:48:59,rio_2016,BRA
+305290,5620,Leonardo,Chacon,CRC,48,0 days 00:18:11,0 days 00:00:48,0 days 00:55:43,0 days 00:00:38,0 days 00:33:46,30.0,0 days 01:49:06,rio_2016,BRA
+305290,14181,Igor,Polyanskiy,RUS,32,0 days 00:17:18,0 days 00:00:51,0 days 00:56:32,0 days 00:00:41,0 days 00:33:49,31.0,0 days 01:49:11,rio_2016,BRA
+305290,7747,Dmitry,Polyanskiy,RUS,31,0 days 00:17:24,0 days 00:00:49,0 days 00:57:07,0 days 00:00:36,0 days 00:33:30,32.0,0 days 01:49:26,rio_2016,BRA
+305290,11408,Tamás,Tóth,HUN,27,0 days 00:17:30,0 days 00:00:47,0 days 00:57:02,0 days 00:00:38,0 days 00:34:05,33.0,0 days 01:50:02,rio_2016,BRA
+305290,29395,Davide,Uccellari,ITA,47,0 days 00:17:32,0 days 00:00:51,0 days 00:56:57,0 days 00:00:37,0 days 00:35:09,34.0,0 days 01:51:06,rio_2016,BRA
+305290,10539,Joao,Silva,POR,12,0 days 00:18:08,0 days 00:00:49,0 days 00:56:22,0 days 00:00:39,0 days 00:35:35,35.0,0 days 01:51:33,rio_2016,BRA
+305290,49390,Dorian,Coninx,FRA,16,0 days 00:17:28,0 days 00:00:52,0 days 00:56:22,0 days 00:00:36,0 days 00:36:32,36.0,0 days 01:51:50,rio_2016,BRA
+305290,158264,Greg,Billington,USA,37,0 days 00:18:15,0 days 00:00:49,0 days 00:59:33,0 days 00:00:42,0 days 00:32:45,37.0,0 days 01:52:04,rio_2016,BRA
+305290,39974,Jelle,Geens,BEL,14,0 days 00:18:36,0 days 00:00:49,0 days 00:59:14,0 days 00:00:37,0 days 00:32:49,38.0,0 days 01:52:05,rio_2016,BRA
+305290,11162,Rostislav,Pevtsov,AZE,51,0 days 00:18:14,0 days 00:00:51,0 days 00:59:32,0 days 00:00:42,0 days 00:32:47,39.0,0 days 01:52:06,rio_2016,BRA
+305290,5551,Bryan,Keane,IRL,50,0 days 00:18:10,0 days 00:00:57,0 days 00:59:30,0 days 00:00:41,0 days 00:32:51,40.0,0 days 01:52:09,rio_2016,BRA
+305290,9917,Diogo,Sclebin,BRA,45,0 days 00:18:20,0 days 00:00:49,0 days 00:59:29,0 days 00:00:40,0 days 00:33:14,41.0,0 days 01:52:32,rio_2016,BRA
+305290,11508,Andrew,Yorke,CAN,53,0 days 00:18:17,0 days 00:00:48,0 days 00:59:10,0 days 00:00:35,0 days 00:33:56,42.0,0 days 01:52:46,rio_2016,BRA
+305290,5864,Manuel,Huerta,PUR,33,0 days 00:18:19,0 days 00:00:48,0 days 00:59:30,0 days 00:00:37,0 days 00:34:08,43.0,0 days 01:53:22,rio_2016,BRA
+305290,7742,Miguel,Arraiolos,POR,10,0 days 00:18:44,0 days 00:00:50,0 days 00:59:04,0 days 00:00:35,0 days 00:34:22,44.0,0 days 01:53:35,rio_2016,BRA
+305290,15371,Gonzalo Raul,Tellechea,ARG,29,0 days 00:18:42,0 days 00:00:49,0 days 00:59:08,0 days 00:00:41,0 days 00:34:23,45.0,0 days 01:53:43,rio_2016,BRA
+305290,10842,Lawrence,Fanous,JOR,21,0 days 00:18:16,0 days 00:00:48,0 days 00:59:34,0 days 00:00:40,0 days 00:35:47,46.0,0 days 01:55:05,rio_2016,BRA
+305290,11979,Thomas,Springer,AUT,3,0 days 00:19:45,0 days 00:00:49,0 days 00:59:41,0 days 00:00:39,0 days 00:34:20,47.0,0 days 01:55:14,rio_2016,BRA
+305290,17069,Luciano,Taccone,ARG,28,0 days 00:19:23,0 days 00:00:55,0 days 00:59:56,0 days 00:00:41,0 days 00:34:35,48.0,0 days 01:55:30,rio_2016,BRA
+305290,11333,Ivan,Ivanov,UKR,40,0 days 00:18:58,0 days 00:00:51,0 days 01:00:26,0 days 00:00:43,0 days 00:35:02,49.0,0 days 01:56:00,rio_2016,BRA
+305290,16884,Faquan,Bai,CHN,42,0 days 00:17:31,0 days 00:00:49,0 days 00:59:49,0 days 00:00:37,0 days 00:39:22,50.0,0 days 01:58:08,rio_2016,BRA
+501764,41322,Kristian,Blummenfelt,NOR,43,0 days 00:18:04,0 days 00:00:39,0 days 00:56:19,0 days 00:00:28,0 days 00:29:34,1.0,0 days 01:45:04,tokyo_2020,JPN
+501764,96742,Alex,Yee,GBR,55,0 days 00:18:09,0 days 00:00:38,0 days 00:56:17,0 days 00:00:27,0 days 00:29:44,2.0,0 days 01:45:15,tokyo_2020,JPN
+501764,104034,Hayden,Wilde,NZL,2,0 days 00:18:17,0 days 00:00:39,0 days 00:56:07,0 days 00:00:29,0 days 00:29:52,3.0,0 days 01:45:24,tokyo_2020,JPN
+501764,40311,Marten,Van Riel,BEL,27,0 days 00:17:45,0 days 00:00:40,0 days 00:56:37,0 days 00:00:29,0 days 00:30:21,4.0,0 days 01:45:52,tokyo_2020,JPN
+501764,11378,Jonathan,Brownlee,GBR,54,0 days 00:17:49,0 days 00:00:38,0 days 00:56:38,0 days 00:00:26,0 days 00:30:22,5.0,0 days 01:45:53,tokyo_2020,JPN
+501764,18714,Kevin,McDowell,USA,52,0 days 00:18:29,0 days 00:00:37,0 days 00:55:56,0 days 00:00:28,0 days 00:30:24,6.0,0 days 01:45:54,tokyo_2020,JPN
+501764,50700,Bence,Bicsák,HUN,18,0 days 00:17:55,0 days 00:00:42,0 days 00:56:26,0 days 00:00:29,0 days 00:30:24,7.0,0 days 01:45:56,tokyo_2020,JPN
+501764,47630,Gustav,Iden,NOR,44,0 days 00:18:24,0 days 00:00:39,0 days 00:55:59,0 days 00:00:29,0 days 00:30:29,8.0,0 days 01:46:00,tokyo_2020,JPN
+501764,70032,Max,Studer,SUI,47,0 days 00:18:25,0 days 00:00:39,0 days 00:55:59,0 days 00:00:28,0 days 00:30:35,9.0,0 days 01:46:06,tokyo_2020,JPN
+501764,11402,Mario,Mola,ESP,22,0 days 00:18:21,0 days 00:00:38,0 days 00:56:06,0 days 00:00:30,0 days 00:30:38,10.0,0 days 01:46:13,tokyo_2020,JPN
+501764,76434,Casper,Stornes,NOR,45,0 days 00:17:58,0 days 00:00:42,0 days 00:56:21,0 days 00:00:28,0 days 00:30:50,11.0,0 days 01:46:19,tokyo_2020,JPN
+501764,29442,Fernando,Alarza,ESP,20,0 days 00:18:20,0 days 00:00:38,0 days 00:56:09,0 days 00:00:33,0 days 00:30:42,12.0,0 days 01:46:22,tokyo_2020,JPN
+501764,11143,Vincent,Luis,FRA,7,0 days 00:17:39,0 days 00:00:39,0 days 00:56:45,0 days 00:00:30,0 days 00:30:51,13.0,0 days 01:46:24,tokyo_2020,JPN
+501764,39264,Kenji,Nener,JPN,30,0 days 00:17:51,0 days 00:00:41,0 days 00:56:31,0 days 00:00:28,0 days 00:30:53,14.0,0 days 01:46:24,tokyo_2020,JPN
+501764,49411,Tyler,Mislawchuk,CAN,15,0 days 00:17:50,0 days 00:00:39,0 days 00:56:35,0 days 00:00:29,0 days 00:30:55,15.0,0 days 01:46:28,tokyo_2020,JPN
+501764,45915,Jacob,Birtwhistle,AUS,10,0 days 00:18:14,0 days 00:00:38,0 days 00:56:11,0 days 00:00:28,0 days 00:31:01,16.0,0 days 01:46:32,tokyo_2020,JPN
+501764,49390,Dorian,Coninx,FRA,6,0 days 00:18:04,0 days 00:00:41,0 days 00:56:18,0 days 00:00:30,0 days 00:31:15,17.0,0 days 01:46:48,tokyo_2020,JPN
+501764,54985,Tayler,Reid,NZL,1,0 days 00:17:45,0 days 00:00:37,0 days 00:56:40,0 days 00:00:27,0 days 00:31:25,18.0,0 days 01:46:54,tokyo_2020,JPN
+501764,63982,Makoto,Odakura,JPN,31,0 days 00:18:21,0 days 00:00:41,0 days 00:56:05,0 days 00:00:30,0 days 00:31:26,19.0,0 days 01:47:03,tokyo_2020,JPN
+501764,41870,Shachar,Sagiv,ISR,38,0 days 00:18:12,0 days 00:00:39,0 days 00:56:14,0 days 00:00:28,0 days 00:31:37,20.0,0 days 01:47:10,tokyo_2020,JPN
+501764,63162,Léo,Bergere,FRA,5,0 days 00:18:00,0 days 00:00:41,0 days 00:56:22,0 days 00:00:30,0 days 00:31:47,21.0,0 days 01:47:20,tokyo_2020,JPN
+501764,11315,Andrea,Salvisberg,SUI,46,0 days 00:18:02,0 days 00:00:40,0 days 00:56:03,0 days 00:00:30,0 days 00:32:10,22.0,0 days 01:47:25,tokyo_2020,JPN
+501764,10539,Joao,Silva,POR,25,0 days 00:17:55,0 days 00:00:41,0 days 00:56:30,0 days 00:00:31,0 days 00:31:53,23.0,0 days 01:47:30,tokyo_2020,JPN
+501764,80795,Matthew,Hauser,AUS,11,0 days 00:18:07,0 days 00:00:42,0 days 00:56:18,0 days 00:00:29,0 days 00:31:59,24.0,0 days 01:47:35,tokyo_2020,JPN
+501764,5695,Javier,Gomez Noya,ESP,21,0 days 00:18:22,0 days 00:00:38,0 days 00:56:05,0 days 00:00:33,0 days 00:32:08,25.0,0 days 01:47:46,tokyo_2020,JPN
+501764,10141,Aaron,Royle,AUS,12,0 days 00:18:09,0 days 00:00:41,0 days 00:56:14,0 days 00:00:32,0 days 00:32:21,26.0,0 days 01:47:57,tokyo_2020,JPN
+501764,10536,Joao,Pereira,POR,24,0 days 00:17:56,0 days 00:00:38,0 days 00:56:31,0 days 00:00:31,0 days 00:32:27,27.0,0 days 01:48:03,tokyo_2020,JPN
+501764,69143,Manoel,Messias,BRA,34,0 days 00:18:37,0 days 00:00:38,0 days 00:57:40,0 days 00:00:33,0 days 00:30:43,28.0,0 days 01:48:11,tokyo_2020,JPN
+501764,11408,Tamás,Tóth,HUN,19,0 days 00:18:07,0 days 00:00:40,0 days 00:56:20,0 days 00:00:33,0 days 00:32:39,29.0,0 days 01:48:19,tokyo_2020,JPN
+501764,56027,Diego,Moya,CHI,39,0 days 00:17:50,0 days 00:00:42,0 days 00:56:34,0 days 00:00:35,0 days 00:32:48,30.0,0 days 01:48:29,tokyo_2020,JPN
+501764,7503,Crisanto,Grajales Valencia,MEX,40,0 days 00:18:23,0 days 00:00:41,0 days 00:57:52,0 days 00:00:34,0 days 00:31:06,31.0,0 days 01:48:36,tokyo_2020,JPN
+501764,7747,Dmitry,Polyanskiy,ROC,8,0 days 00:17:40,0 days 00:00:38,0 days 00:56:49,0 days 00:00:31,0 days 00:33:08,32.0,0 days 01:48:46,tokyo_2020,JPN
+501764,95497,Oscar,Coggins,HKG,56,0 days 00:17:54,0 days 00:00:41,0 days 00:56:29,0 days 00:00:28,0 days 00:33:23,33.0,0 days 01:48:55,tokyo_2020,JPN
+501764,15838,Lukas,Hollaus,AUT,28,0 days 00:18:38,0 days 00:00:40,0 days 00:57:38,0 days 00:00:29,0 days 00:31:34,34.0,0 days 01:48:59,tokyo_2020,JPN
+501764,74989,Ran,Sagiv,ISR,37,0 days 00:18:24,0 days 00:00:42,0 days 00:57:50,0 days 00:00:33,0 days 00:31:35,35.0,0 days 01:49:04,tokyo_2020,JPN
+501764,23656,Felix,Duchampt,ROU,23,0 days 00:18:39,0 days 00:00:38,0 days 00:57:42,0 days 00:00:29,0 days 00:31:38,36.0,0 days 01:49:06,tokyo_2020,JPN
+501764,71738,Gianluca,Pozzatti,ITA,35,0 days 00:18:00,0 days 00:00:43,0 days 00:56:24,0 days 00:00:36,0 days 00:33:31,37.0,0 days 01:49:14,tokyo_2020,JPN
+501764,67535,Jonas,Schomburg,GER,4,0 days 00:17:42,0 days 00:00:38,0 days 00:58:38,0 days 00:00:34,0 days 00:32:02,38.0,0 days 01:49:34,tokyo_2020,JPN
+501764,46791,Delian,Stateff,ITA,36,0 days 00:17:54,0 days 00:00:42,0 days 00:56:31,0 days 00:00:29,0 days 00:34:24,39.0,0 days 01:50:00,tokyo_2020,JPN
+501764,41060,Justus,Nieschlag,GER,3,0 days 00:18:09,0 days 00:00:42,0 days 00:56:14,0 days 00:00:33,0 days 00:34:32,40.0,0 days 01:50:10,tokyo_2020,JPN
+501764,11162,Rostislav,Pevtsov,AZE,33,0 days 00:18:27,0 days 00:00:39,0 days 00:57:50,0 days 00:00:33,0 days 00:33:17,41.0,0 days 01:50:46,tokyo_2020,JPN
+501764,123392,Morgan,Pearson,USA,53,0 days 00:18:02,0 days 00:00:38,0 days 00:58:17,0 days 00:00:36,0 days 00:34:32,42.0,0 days 01:52:05,tokyo_2020,JPN
+501764,18417,Stefan,Zachäus,LUX,14,0 days 00:17:56,0 days 00:00:39,0 days 00:56:29,0 days 00:00:32,0 days 00:36:45,43.0,0 days 01:52:21,tokyo_2020,JPN
+501764,15981,Mehdi,Essadiq,MAR,32,0 days 00:17:58,0 days 00:00:48,0 days 00:58:13,0 days 00:00:40,0 days 00:35:46,44.0,0 days 01:53:25,tokyo_2020,JPN
+501764,6186,Irving,Perez,MEX,41,0 days 00:18:06,0 days 00:00:38,0 days 01:01:14,0 days 00:00:30,0 days 00:33:34,45.0,0 days 01:54:02,tokyo_2020,JPN
+501764,50520,Mohamad,Maso,SYR,42,0 days 00:18:07,0 days 00:00:42,0 days 00:58:10,0 days 00:00:40,0 days 00:36:33,46.0,0 days 01:54:12,tokyo_2020,JPN
+501764,40710,Russell,White,IRL,17,0 days 00:18:35,0 days 00:00:44,0 days 00:57:40,0 days 00:00:36,0 days 00:37:05,47.0,0 days 01:54:40,tokyo_2020,JPN
+501764,22327,Matthew,Sharpe,CAN,16,0 days 00:17:56,0 days 00:00:39,0 days 00:56:31,0 days 00:00:36,0 days 00:41:50,48.0,0 days 01:57:32,tokyo_2020,JPN
+655047,96742,Alex,Yee,GBR,56,0 days 00:20:37,0 days 00:00:50,0 days 00:51:57,0 days 00:00:22,0 days 00:29:47,1.0,0 days 01:43:33,paris_2024,FRA
+655047,104034,Hayden,Wilde,NZL,21,0 days 00:21:13,0 days 00:00:50,0 days 00:51:20,0 days 00:00:27,0 days 00:29:49,2.0,0 days 01:43:39,paris_2024,FRA
+655047,63162,Léo,Bergere,FRA,27,0 days 00:20:37,0 days 00:00:51,0 days 00:51:55,0 days 00:00:25,0 days 00:29:55,3.0,0 days 01:43:43,paris_2024,FRA
+655047,30249,Pierre,Le Corre,FRA,29,0 days 00:20:20,0 days 00:00:51,0 days 00:52:14,0 days 00:00:25,0 days 00:30:01,4.0,0 days 01:43:51,paris_2024,FRA
+655047,86042,Vasco,Vilaca,POR,48,0 days 00:21:03,0 days 00:00:52,0 days 00:51:30,0 days 00:00:27,0 days 00:30:04,5.0,0 days 01:43:56,paris_2024,FRA
+655047,98121,Ricardo,Batista,POR,47,0 days 00:21:10,0 days 00:00:46,0 days 00:51:29,0 days 00:00:27,0 days 00:30:06,6.0,0 days 01:43:58,paris_2024,FRA
+655047,80795,Matthew,Hauser,AUS,45,0 days 00:20:14,0 days 00:00:49,0 days 00:52:26,0 days 00:00:24,0 days 00:30:24,7.0,0 days 01:44:17,paris_2024,FRA
+655047,74419,Alberto,Gonzalez Garcia,ESP,15,0 days 00:20:23,0 days 00:00:46,0 days 00:52:15,0 days 00:00:22,0 days 00:30:36,8.0,0 days 01:44:22,paris_2024,FRA
+655047,49411,Tyler,Mislawchuk,CAN,49,0 days 00:20:49,0 days 00:00:51,0 days 00:51:45,0 days 00:00:25,0 days 00:30:35,9.0,0 days 01:44:25,paris_2024,FRA
+655047,105480,Miguel,Hidalgo,BRA,25,0 days 00:20:57,0 days 00:00:53,0 days 00:51:36,0 days 00:00:25,0 days 00:30:36,10.0,0 days 01:44:27,paris_2024,FRA
+655047,94446,Csongor,Lehmann,HUN,53,0 days 00:21:19,0 days 00:00:48,0 days 00:51:16,0 days 00:00:21,0 days 00:30:43,11.0,0 days 01:44:27,paris_2024,FRA
+655047,41322,Kristian,Blummenfelt,NOR,43,0 days 00:21:00,0 days 00:00:53,0 days 00:51:29,0 days 00:00:26,0 days 00:30:39,12.0,0 days 01:44:27,paris_2024,FRA
+655047,79706,Charles,Paquet,CAN,50,0 days 00:21:16,0 days 00:00:53,0 days 00:51:16,0 days 00:00:26,0 days 00:30:46,13.0,0 days 01:44:37,paris_2024,FRA
+655047,71738,Gianluca,Pozzatti,ITA,3,0 days 00:20:31,0 days 00:00:51,0 days 00:52:01,0 days 00:00:27,0 days 00:30:51,14.0,0 days 01:44:41,paris_2024,FRA
+655047,39264,Kenji,Nener,JPN,18,0 days 00:20:36,0 days 00:00:50,0 days 00:51:58,0 days 00:00:25,0 days 00:31:13,15.0,0 days 01:45:02,paris_2024,FRA
+655047,50700,Bence,Bicsák,HUN,52,0 days 00:20:55,0 days 00:00:54,0 days 00:51:35,0 days 00:00:29,0 days 00:31:21,16.0,0 days 01:45:14,paris_2024,FRA
+655047,96040,Vetle Bergsvik,Thorn,NOR,44,0 days 00:20:30,0 days 00:00:50,0 days 00:52:02,0 days 00:00:25,0 days 00:31:34,17.0,0 days 01:45:21,paris_2024,FRA
+655047,106885,Tim,Hellwig,GER,36,0 days 00:20:34,0 days 00:00:47,0 days 00:52:03,0 days 00:00:26,0 days 00:31:39,18.0,0 days 01:45:29,paris_2024,FRA
+655047,103632,Dylan,McCullough,NZL,20,0 days 00:20:36,0 days 00:00:51,0 days 00:51:58,0 days 00:00:26,0 days 00:31:44,19.0,0 days 01:45:35,paris_2024,FRA
+655047,30433,Henri,Schoeman,RSA,33,0 days 00:20:11,0 days 00:00:51,0 days 00:52:24,0 days 00:00:25,0 days 00:32:02,20.0,0 days 01:45:53,paris_2024,FRA
+655047,70410,Lasse,Lührs,GER,37,0 days 00:21:00,0 days 00:00:52,0 days 00:51:34,0 days 00:00:27,0 days 00:32:03,21.0,0 days 01:45:56,paris_2024,FRA
+655047,40311,Marten,Van Riel,BEL,12,0 days 00:20:34,0 days 00:00:56,0 days 00:51:53,0 days 00:00:26,0 days 00:32:22,22.0,0 days 01:46:11,paris_2024,FRA
+655047,21622,Alois,Knabl,AUT,42,0 days 00:20:33,0 days 00:00:54,0 days 00:51:57,0 days 00:00:26,0 days 00:32:33,23.0,0 days 01:46:23,paris_2024,FRA
+655047,67535,Jonas,Schomburg,GER,38,0 days 00:20:32,0 days 00:00:51,0 days 00:52:00,0 days 00:00:22,0 days 00:32:41,24.0,0 days 01:46:26,paris_2024,FRA
+655047,103943,Jamie,Riddle,RSA,32,0 days 00:20:29,0 days 00:00:55,0 days 00:52:02,0 days 00:00:33,0 days 00:33:16,25.0,0 days 01:47:15,paris_2024,FRA
+655047,135049,Mitch,Kolkman,NED,6,0 days 00:20:39,0 days 00:00:46,0 days 00:51:58,0 days 00:00:27,0 days 00:33:31,26.0,0 days 01:47:21,paris_2024,FRA
+655047,49390,Dorian,Coninx,FRA,28,0 days 00:20:18,0 days 00:00:50,0 days 00:52:17,0 days 00:00:23,0 days 00:33:49,27.0,0 days 01:47:37,paris_2024,FRA
+655047,56027,Diego,Moya,CHI,34,0 days 00:21:05,0 days 00:00:51,0 days 00:51:31,0 days 00:00:26,0 days 00:33:54,28.0,0 days 01:47:47,paris_2024,FRA
+655047,76425,Seth,Rider,USA,31,0 days 00:20:30,0 days 00:00:53,0 days 00:52:00,0 days 00:00:27,0 days 00:34:03,29.0,0 days 01:47:53,paris_2024,FRA
+655047,107730,Alessio,Crociani,ITA,2,0 days 00:20:10,0 days 00:00:49,0 days 00:52:32,0 days 00:00:24,0 days 00:34:24,30.0,0 days 01:48:19,paris_2024,FRA
+655047,123392,Morgan,Pearson,USA,30,0 days 00:21:30,0 days 00:00:47,0 days 00:54:35,0 days 00:00:30,0 days 00:31:04,31.0,0 days 01:48:26,paris_2024,FRA
+655047,63428,Antonio,Serrat Seoane,ESP,17,0 days 00:22:03,0 days 00:00:52,0 days 00:53:57,0 days 00:00:24,0 days 00:31:26,32.0,0 days 01:48:42,paris_2024,FRA
+655047,94563,Tjebbe,Kaindl,AUT,41,0 days 00:21:21,0 days 00:00:47,0 days 00:51:18,0 days 00:00:27,0 days 00:35:08,33.0,0 days 01:49:01,paris_2024,FRA
+655047,29226,Matthew,Wright,BAR,4,0 days 00:22:13,0 days 00:00:49,0 days 00:53:50,0 days 00:00:24,0 days 00:32:02,34.0,0 days 01:49:18,paris_2024,FRA
+655047,58566,Emil,Holm,DEN,40,0 days 00:22:26,0 days 00:00:49,0 days 00:53:37,0 days 00:00:25,0 days 00:32:04,35.0,0 days 01:49:21,paris_2024,FRA
+655047,63429,Roberto,Sanchez Mantecon,ESP,16,0 days 00:23:02,0 days 00:00:51,0 days 00:54:28,0 days 00:00:23,0 days 00:30:45,36.0,0 days 01:49:29,paris_2024,FRA
+655047,41870,Shachar,Sagiv,ISR,5,0 days 00:21:31,0 days 00:00:48,0 days 00:54:33,0 days 00:00:27,0 days 00:32:13,37.0,0 days 01:49:32,paris_2024,FRA
+655047,7167,Gaspar,Riveros,CHI,35,0 days 00:22:14,0 days 00:00:50,0 days 00:53:47,0 days 00:00:28,0 days 00:32:29,38.0,0 days 01:49:48,paris_2024,FRA
+655047,7503,Crisanto,Grajales Valencia,MEX,8,0 days 00:21:24,0 days 00:00:53,0 days 00:54:34,0 days 00:00:26,0 days 00:32:45,39.0,0 days 01:50:02,paris_2024,FRA
+655047,70032,Max,Studer,SUI,23,0 days 00:22:24,0 days 00:00:52,0 days 00:53:36,0 days 00:00:24,0 days 00:32:51,40.0,0 days 01:50:07,paris_2024,FRA
+655047,63982,Makoto,Odakura,JPN,19,0 days 00:21:36,0 days 00:00:52,0 days 00:54:24,0 days 00:00:28,0 days 00:32:55,41.0,0 days 01:50:15,paris_2024,FRA
+655047,39974,Jelle,Geens,BEL,11,0 days 00:23:13,0 days 00:00:53,0 days 00:54:16,0 days 00:00:26,0 days 00:31:47,42.0,0 days 01:50:35,paris_2024,FRA
+655047,11162,Rostislav,Pevtsov,AZE,1,0 days 00:21:33,0 days 00:00:49,0 days 00:56:01,0 days 00:00:31,0 days 00:31:42,43.0,0 days 01:50:36,paris_2024,FRA
+655047,16392,Richard,Murray,NED,7,0 days 00:22:43,0 days 00:00:50,0 days 00:54:48,0 days 00:00:23,0 days 00:32:11,44.0,0 days 01:50:55,paris_2024,FRA
+655047,69143,Manoel,Messias,BRA,26,0 days 00:23:08,0 days 00:00:53,0 days 00:54:21,0 days 00:00:31,0 days 00:32:07,45.0,0 days 01:51:00,paris_2024,FRA
+655047,55495,Luke,Willian,AUS,46,0 days 00:22:09,0 days 00:00:54,0 days 00:53:40,0 days 00:00:25,0 days 00:34:05,46.0,0 days 01:51:13,paris_2024,FRA
+655047,103530,Aram Michell,Peñaflor Moysen,MEX,9,0 days 00:23:07,0 days 00:00:49,0 days 00:54:27,0 days 00:00:27,0 days 00:32:56,47.0,0 days 01:51:46,paris_2024,FRA
+655047,79730,Tyler,Smith,BER,14,0 days 00:21:39,0 days 00:00:55,0 days 00:54:16,0 days 00:00:27,0 days 00:34:42,48.0,0 days 01:51:59,paris_2024,FRA
+655047,56550,Adrien,Briffod,SUI,22,0 days 00:21:30,0 days 00:00:51,0 days 00:54:30,0 days 00:00:24,0 days 00:35:06,49.0,0 days 01:52:21,paris_2024,FRA
+655047,23656,Felix,Duchampt,ROU,54,0 days 00:23:05,0 days 00:00:50,0 days 00:56:35,0 days 00:00:30,0 days 00:35:00,50.0,0 days 01:56:00,paris_2024,FRA
