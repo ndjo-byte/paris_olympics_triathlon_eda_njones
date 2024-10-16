@@ -1,15 +1,28 @@
-El objetivo de mi proyecto es realizar un análisis exploratorio de los resultados de las competencias de triatlón masculino y femenino en las Olimpiadas, basándome en varias hipótesis que buscan entender los factores que pueden influir en el rendimiento de los atletas. A continuación, se detallan las hipótesis a explorar:
+Triathlon Race Analysis: Exploratory Data Analysis (EDA)
 
-Hipótesis 1: "Siendo la parte más larga de la carrera, montar bicicleta será la disciplina más importante"
-El triatlón consta de tres disciplinas: natación, ciclismo y carrera a pie, y cada una contribuye de manera diferente al tiempo total. En esta hipótesis, se sugiere que el segmento de ciclismo, siendo la etapa más extensa en términos de distancia, tendrá el mayor impacto en la posición final de los atletas. Se espera que aquellos competidores que tengan un rendimiento superior en esta disciplina tiendan a obtener mejores resultados generales en comparación con aquellos que destacan en las otras fases.
+This repository presents an exploratory data analysis (EDA) of triathlon race performance to investigate two primary hypotheses:
 
-Hipótesis 2: "La edad del competidor también influye en la posición del atleta, dado a la experiencia que aporta"
-La experiencia y la madurez en competiciones internacionales pueden ser factores determinantes en el rendimiento de un atleta. Esta hipótesis sugiere que los competidores más experimentados, que suelen ser de mayor edad, podrían tener ventaja en las Olimpiadas debido a la acumulación de años de entrenamiento y competición. Se investigará la relación entre la edad de los atletas y sus posiciones finales para determinar si existe una correlación positiva entre la experiencia y el éxito en los triatlones olímpicos.
+1. The bike leg, as the longest part of the race, is the most decisive in determining the winner.
+2. The swim leg, being the first part of the race, is the most competitive.
 
-Hipótesis 3: "Atletas de Francia en general acaban en mejor posición, dado al ventaja que aporta competir en su propio país"
-El "efecto de localía" sugiere que los atletas que compiten en su propio país suelen tener mejores resultados debido a factores como la familiaridad con el entorno, el apoyo del público y la reducción del desgaste relacionado con el viaje. En esta hipótesis, se examinará si los atletas franceses tuvieron un rendimiento superior durante las Olimpiadas de París, en comparación con otros competidores, analizando si competir en su país de origen les proporcionó una ventaja significativa en términos de posición final.
+Overview
 
-Hipótesis 4: "La calificación mundial (anterior) es una buena forma de predecir el resultado de la carrera olímpica"
-Se propone que el ranking mundial previo de los atletas es un indicador confiable de su desempeño en los Juegos Olímpicos. En esta hipótesis, se evaluará si los atletas que llegan a la competencia con mejores posiciones en el ranking global tienden a obtener mejores resultados en los triatlones olímpicos. Se analizará la correlación entre las posiciones en el ranking mundial y las posiciones finales en la carrera para comprobar la capacidad predictiva del ranking previo.
+In this project, I analysed triathlon race data from the past 6 Olympic Games to uncover insights into how each leg of the race—swim, bike, and run—contributes to overall race outcomes.
 
-Este análisis exploratorio permitirá comprender mejor cómo factores como la disciplina más extensa (ciclismo), la edad de los competidores, la localía y el ranking mundial influyen en los resultados de los triatlones olímpicos, proporcionando insights valiosos sobre el rendimiento en este deporte de alto rendimiento.
+Key Questions:
+
+Is the bike leg the most critical for determining the winner, given its length?
+Is the swim leg the most competitive, as it sets the tone for the race?
+Using Python and popular data analysis libraries such as pandas and numpy, I cleaned, processed, and analysed race data. For visualisation, I used seaborn and plotly to create dynamic plots that highlight trends and relationships between performance across race segments.
+
+Technologies Used
+
+Python for data manipulation and analysis.
+NumPy and Pandas for data processing and statistical calculations.
+Seaborn and Plotly for visualization of patterns and trends.
+
+Analysis Highlights
+
+Segment Correlation: Investigated the relationship between performance in each segment and overall race results.
+Time Distributions: Visualised time distributions across different race legs to assess variability and competitiveness.
+Competitiveness: Examined the relative competitiveness of each leg, focusing on tightness in time spreads across athletes.
